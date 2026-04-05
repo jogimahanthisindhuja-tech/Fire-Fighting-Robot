@@ -49,26 +49,27 @@ The robot also includes a Bluetooth control system, allowing manual operation wh
 | Bluetooth RX    | 2          |
 | Bluetooth TX    | 3          |
 
-# Working Principle
--  Automatic Mode
-1.Flame sensors continuously monitor surroundings
-2.When fire is detected:
-Sensor values drop below threshold
-3.Robot determines direction:
-Center → Move forward
-Left → Turn left
-Right → Turn right
-4.Robot moves toward fire
-5.Stops near fire
-6.Activates pump and sprays water using servo motion
--  Manual Mode
-1.Controlled via Bluetooth commands from mobile
-2.User can:
-- Move robot in all directions
-- Stop movement
-- Switch between modes
-  
+##  Working Principle
 
+###  Automatic Mode
+- Flame sensors continuously monitor surroundings  
+- When fire is detected:  
+  - Sensor values drop below threshold  
+- Robot determines direction:  
+  - Center → Move forward  
+  - Left → Turn left  
+  - Right → Turn right  
+- Robot moves toward fire  
+- Stops near fire  
+- Activates pump and sprays water using servo motion  
+
+###  Manual Mode
+- Controlled via Bluetooth commands from mobile  
+- User can:  
+  - Move robot in all directions  
+  - Stop movement  
+  - Switch between modes
+---
  # Bluetooth commands
  | Command | Function        |
 |--------|----------------|
