@@ -1,4 +1,4 @@
-#Description
+# Description
 This project is an Arduino-based Fire Fighting Robot designed to detect and extinguish fire automatically. It uses flame sensors to identify the presence and direction of fire, navigates toward it, and activates a water pump system to suppress the flames.
 The robot also includes a Bluetooth control system, allowing manual operation when needed. This project demonstrates real-time interaction between sensors, actuators, and wireless communication.
 # Objectives
