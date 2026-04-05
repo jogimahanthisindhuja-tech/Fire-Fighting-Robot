@@ -89,15 +89,15 @@ Right → Turn right
 - Check Bluetooth input
 - If manual mode → execute user commands
 - If automatic mode:
-1. Detect fire
-2,Identify direction
-3.Move toward fire
-4.Stop and spray water
-- Repeat continuously
+1. Detect fire <br>
+2,Identify direction <br>
+3.Move toward fire <br>
+4.Stop and spray water <br>
+- Repeat continuously <br>
 # Setup Instructions
-1.Assemble robot chassis and mount components
-2.Connect all components as per pin configuration
-3.Upload code using Arduino IDE
-4.Pair Bluetooth module with smartphone
-5.Use any Bluetooth controller app
-6.Power the robot
+1.Assemble robot chassis and mount components <br>
+2.Connect all components as per pin configuration <br>
+3.Upload code using Arduino IDE <br>
+4.Pair Bluetooth module with smartphone <br>
+5.Use any Bluetooth controller app <br>
+6.Power the robot <br>
