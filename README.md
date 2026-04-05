@@ -1,11 +1,11 @@
 # Fire-Fighting-Robot
 An Arduino-based fire fighting robot that detects fire using flame sensors and moves toward it automatically. It extinguishes flames using a water pump and servo system. The robot also supports Bluetooth-based manual control for remote navigation.
 # Features
- Automatic fire detection
- Autonomous navigation
- Water spraying system
- Bluetooth manual control
- Dual mode (Auto & Manual)
+-  Automatic fire detection
+-  Autonomous navigation
+-  Water spraying system
+-  Bluetooth manual control
+- Dual mode (Auto & Manual)
 # Components Required
 Arduino UNO
 Flame Sensors (3x)
