@@ -88,7 +88,7 @@ Right → Turn right
 - Read flame sensor values
 - Check Bluetooth input
 - If manual mode → execute user commands
-- If automatic mode:
+- If automatic mode: <br>
 1. Detect fire <br>
 2,Identify direction <br>
 3.Move toward fire <br>
